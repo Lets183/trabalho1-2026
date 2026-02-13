@@ -1,0 +1,49 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>página da ray e let</title>
+    
+</head>
+<body>
+    <head>
+    <link rel="stylesheet" type="text/css" href="aula3.css">
+</head>
+
+<header>
+<h1>Nome do site</h1>
+  <nav>
+    <p>Menu de navegação</p>
+    </nav>
+ </header>
+
+ <main>
+
+    <section>
+         <h2>função do site</h2>
+<p>
+    A função do site é responder perguntas em geral
+</p>
+    </section>
+
+    <section>
+        <h2>Conteúdos</h2>
+        <article>
+            <h2>Doces em gerais</h2>
+            <p>
+                Conteúdo do texto 2 
+            </p>
+        </article>
+
+     </section>
+     </main>
+
+<footer>
+    <p>Rodapé do site</p>
+    <p> &copy; 2026 - ray e let. Esse site tem todos os direitos reservados.</p>
+    <a herf="https://www.instagram.com/docesbyray._?igsh=MThqcm43dDUyeG90MQ%3D%3D&utm_source=qr"</a>
+</footer>
+
+</body>
+</html>
